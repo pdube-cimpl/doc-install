@@ -12,7 +12,7 @@ Choose a version
 
 .. note::
 
-   It is hightly recommended you choose the latest stable release for a production usage.
+   It is highly recommended you choose the latest stable release for a production usage.
 
 GLPI follows a semantic versioning scheme, on 3 digits. The first one is the major release, the second the minor and the third the fix release.
 
